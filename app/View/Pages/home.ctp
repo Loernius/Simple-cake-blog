@@ -173,7 +173,7 @@ You can also add some CSS styles for your pages at: %s.',
 	);
 	?>
 </p>
-
+<h3>lansa a braba pra mim awe</h3>
 <h3><?php echo __d('cake_dev', 'Official Plugins'); ?></h3>
 <p>
 <ul>
